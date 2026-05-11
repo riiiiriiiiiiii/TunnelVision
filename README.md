@@ -1,3 +1,5 @@
+This project is a modified fork of TunnelVision, licensed under the GNU Affero General Public License v3.0. Original copyright and license notices are retained.
+
 # 🔭📺 TunnelVision: Your AI Gets Its Own TV 📺🔭
 
 *Stop making your AI guess what to remember. Give it a remote control and let it browse.* 🐰
